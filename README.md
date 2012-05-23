@@ -14,3 +14,5 @@ library - Library files
 public - Document root
 
 test - Unit tests
+
+setup - DB dump
