@@ -1,0 +1,6 @@
+<phpunit bootstrap="test_bootstrap.php" colors="false">
+	<testsuite name="beatport">
+		<file>DBAuthenticationTest.php</file>
+		<file>FileAuthenticationTest.php</file>
+	</testsuite>
+</phpunit>
